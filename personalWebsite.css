@@ -1,0 +1,120 @@
+h1 {
+
+    color:#FA42BA;
+    font-family: Impact;
+    text-decoration: none;
+    text-align: center;
+    margin: auto;
+}
+
+body {
+    background-color: #00FF9B;
+}
+
+p {
+
+    color:#FA42BA;
+    text-align: center;
+    margin: auto;
+}
+
+
+h3 {
+
+    color:#FA42BA;
+    text-align: center;
+    margin: auto;
+}
+
+
+#clue3 {
+
+    color:#FA42BA;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#clue3Also {
+
+    color:#FA42BA;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    margin: auto;
+}
+
+div {
+    text-align: center;
+    margin: auto;
+}
+
+#instrument1 {
+    margin: auto;
+    width: 300px;
+}
+
+#instrument2 {
+    margin: auto;
+    width: 300px;
+}
+
+#instrument3 {
+    margin: auto;
+    width: 300px;
+}
+
+#div1Instrument {
+    text-align: center;
+    margin: auto;
+}
+
+#div2Instrument {
+    text-align: center;
+    margin: auto;
+}
+
+#div3Instrument {
+    text-align: center;
+    margin: auto;
+}
+
+#poke1 {
+    margin: auto;
+    width: 300px;
+}
+
+#poke2 {
+    margin: auto;
+    width: 300px;
+}
+
+#poke3 {
+    margin: auto;
+    width: 300px;
+}
+
+#div1Poke {
+    text-align: center;
+    margin: auto;
+}
+
+#div2Poke {
+    text-align: center;
+    margin: auto;
+}
+
+#div3Poke {
+    text-align: center;
+    margin: auto;
+}
+
+#picture {
+    width: 400px;
+}
